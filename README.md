@@ -37,7 +37,7 @@ https://sejucara.my.id/
 ## Project Screenshots
 
 ### Homepage
-![Sejucara Homepage](sejucara-home.png)
+![Sejucara Homepage](sejucara.png)
 
 ## Developer
 
