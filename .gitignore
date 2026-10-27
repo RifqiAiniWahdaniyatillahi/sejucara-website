@@ -1,0 +1,69 @@
+*.log
+.DS_Store
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+/auth.json
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+Homestead.json
+Homestead.yaml
+Thumbs.db
+/.env.local
+/.env.testing
+
+
+# Dokumen pribadi dan skripsi
+/SKRIPSI_TUGAS_AKHIR_Rifqi_Aini_W.docx
+/SKRIPSI_TUGAS_AKHIR_Rifqi_Aini_W.zip
+/SKRIPSI_TUGAS_AKHIR_Rifqi_Aini_W_TERBARU.docx
+/SKRIPSI_TUGAS_AKHIR_Rifqi_Aini_W_TERBARU.zip
+
+# File sementara dan hasil ekstraksi
+/.tmp_pdf_reader/
+/docx_extract_skripsi/
+/docx_extract_skripsi_terbaru/
+/diagram_skripsi_sus/
+/diagram_skripsi_sus_terbaru/
+
+# Shortcut lokal
+/database - Shortcut.lnk
+
+# Skrip administrasi sensitif, periksa sebelum publikasi
+/check_admin.php
+/update_admin_password.php
+
+# Database lokal
+/database/database.sqlite
+/database/database.sqlite-*
+
+# Folder penyimpanan khusus hosting
+/sejucara.my.id/
+
+# File log aplikasi
+/storage/logs/*.log
+
+# File cache dan sesi sementara
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/testing/*
+
+# Script analisis skripsi, bukan bagian website
+/tools/
+
+# Jangan unggah QRIS pembayaran
+/public/image/Qris.jpeg
